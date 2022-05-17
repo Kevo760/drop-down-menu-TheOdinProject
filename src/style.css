@@ -23,12 +23,12 @@
     padding-top: 5rem;
     left: 0;
     top: 0;
-    width: 10rem;
+    width: 0;
     transition: width 400ms ease-in-out;
 }
 
 .wrapper.active {
-    width: 0;
+    width: 15rem;
     transition: width 400ms ease-in-out;
 }
 
